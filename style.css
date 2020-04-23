@@ -1,0 +1,10 @@
+body{
+    margin:0;
+}
+
+#canvas {
+    display: block;
+    width: 100%;
+    background: #f7ebf4;
+    z-index: 10;
+}
